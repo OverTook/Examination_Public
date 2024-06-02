@@ -41,15 +41,13 @@
 
 ### Server / 서버
 
-#### Prerequisites / 선행 조건
+### Prerequisites / 선행 조건
 
 시험 관리 시스템의 서버를 구동하기 위해서는 아래 조건을 만족해야 합니다.
 
 > APM
 
 만약, APM이 설치되어 있지 않다면 다음 과정을 통해 설치할 수 있습니다.
-
-<br>
 
 #### Ubuntu
 
@@ -63,8 +61,6 @@ sudo ufw allow 'Apache'
 sudo apt-get install php
 sudo apt install mysql-server -y
 ```
-
-<br>
 
 #### Windows
 
