@@ -33,13 +33,13 @@
 <br>
 
 
-## Getting Started / 어떻게 시작하나요?
+# Getting Started / 어떻게 시작하나요?
 
 좋습니다! 이제 시험 관리 시스템을 설치하고 구동하는 방법에 대해서 설명하도록 하겠습니다.
 
 <br>
 
-### Server / 서버
+## Server / 서버
 
 ### Prerequisites / 선행 조건
 
@@ -102,11 +102,11 @@ echo PHPIniDir "c:/php" >> httpd.conf
 
 <br>
 
-#### Installing / 설치
+### Installing / 설치
 
 해당 Repository의 최신 Release 파일을 내려받아 수동으로 파일을 이동하거나, 아래 명령어를 통해 설치할 수 있습니다.
 
-##### Ubuntu
+#### Ubuntu
 
 ```shell
 git clone https://github.com/OverTook/Examination.git /tmp/Examination
@@ -116,7 +116,7 @@ sudo chmod -R 755 /var/www/html
 sudo systemctl restart apache2
 ```
 
-##### Windows
+#### Windows
 
 ```cmd
 git clone https://github.com/OverTook/Examination.git C:\TEMP_DIR\Examination
@@ -125,13 +125,13 @@ xcopy C:\TEMP_DIR\Examination\PHPServer\* C:\Apache24\htdocs /E /H /Y
 
 <br>
 
-### Client / 클라이언트
+## Client / 클라이언트
 
 > [!CAUTION]
 >
 > Windows 환경 이외에는 클라이언트를 실행할 수 없습니다.
 
-#### Prerequisites / 선행 조건
+### Prerequisites / 선행 조건
 
 시험 관리 시스템의 클라이언트를 구동하기 위해서는 아래 조건을 만족해야 합니다.
 
@@ -145,7 +145,7 @@ winget install Microsoft.DotNet.SDK.8
 
 <br>
 
-#### Installing / 설치
+### Installing / 설치
 
 해당 Repository의 최신 Release 파일을 내려받거나, 아래 명령어를 통해 내려받은 후 직접 컴파일을 진행할 수 있습니다.
 
