@@ -5,7 +5,6 @@
 > 열람이 필요한 경우 요청바랍니다.
 
 <br>
-<br>
 
 # 시험 관리 시스템 (EMS)
 
@@ -33,12 +32,12 @@
 
 <br>
 
-<br>
-
 
 ## Getting Started / 어떻게 시작하나요?
 
 좋습니다! 이제 시험 관리 시스템을 설치하고 구동하는 방법에 대해서 설명하도록 하겠습니다.
+
+<br>
 
 ### Server / 서버
 
@@ -50,7 +49,9 @@
 
 만약, APM이 설치되어 있지 않다면 다음 과정을 통해 설치할 수 있습니다.
 
-##### Ubuntu
+<br>
+
+#### Ubuntu
 
 ```shell
 sudo apt update
@@ -63,7 +64,9 @@ sudo apt-get install php
 sudo apt install mysql-server -y
 ```
 
-##### Windows
+<br>
+
+#### Windows
 
 > [!TIP]
 >
@@ -131,7 +134,6 @@ xcopy C:\TEMP_DIR\Examination\PHPServer\* C:\Apache24\htdocs /E /H /Y
 > [!CAUTION]
 >
 > Windows 환경 이외에는 클라이언트를 실행할 수 없습니다.
-> 
 
 #### Prerequisites / 선행 조건
 
