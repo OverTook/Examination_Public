@@ -142,7 +142,7 @@ winget install Microsoft.DotNet.SDK.8
 gh repo clone OverTook/Examination
 ```
 
-## 
+
 
 ## 업데이트 내역
 
@@ -274,7 +274,7 @@ gh repo clone OverTook/Examination
   
   - 코드 최적화 및 C# 버전 변경 (7.3 > 8.0)
 
-## 
+
 
 ## 할 일 / TODO List
 
@@ -288,7 +288,7 @@ gh repo clone OverTook/Examination
 
 - [ ] 서버 언어 변경
 
-## 
+
 
 ## 기여 방법 / How to contribute
 
