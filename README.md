@@ -4,29 +4,17 @@
 > 
 > 열람이 필요한 경우 요청바랍니다.
 
-
-
-
 # 시험 관리 시스템 (EMS)
 
 > 시험 관리 프로그램 (Examination Management System)
 
-
-
 [시험 관리 시스템](https://github.com/OverTook/Examination) 은 C# 클라이언트와 PHP 서버를 이용하여 구동되는 시험 관리 프로그램입니다.
-
-
 
 부정 행위를 방지하고자 하는 만큼 주요 기능은 다음과 같습니다.
 
-1.  [Alt + Tab], [Alt + F4], [Ctrl + Alt + Del] 등 다양한 Key Input 제어
+1. [Alt + Tab], [Alt + F4], [Ctrl + Alt + Del] 등 다양한 Key Input 제어
 
-2.  주 모니터를 제외한 나머지 모니터를 차단
-
-
-
-
-
+2. 주 모니터를 제외한 나머지 모니터를 차단
 
 ![Examination_1](./Examination_1.png)
 
@@ -154,10 +142,7 @@ winget install Microsoft.DotNet.SDK.8
 gh repo clone OverTook/Examination
 ```
 
-
-
-
-
+## 
 
 ## 업데이트 내역
 
@@ -289,34 +274,32 @@ gh repo clone OverTook/Examination
   
   - 코드 최적화 및 C# 버전 변경 (7.3 > 8.0)
 
-
-
-
+## 
 
 ## 할 일 / TODO List
 
-- [x]  기능 완성
+- [x] 기능 완성
 
-- [ ]  코드 리팩토링
+- [ ] 코드 리팩토링
   
-  - [ ]  DTO 사용
+  - [ ] DTO 사용
   
-  - [ ]  중복 코드 제거
+  - [ ] 중복 코드 제거
 
-- [ ]  서버 언어 변경
+- [ ] 서버 언어 변경
 
-
+## 
 
 ## 기여 방법 / How to contribute
 
-1.  Private Repository에 권한을 부여할 수 있게 본 레포지토리에 Issue를 올려주세요.
+1. Private Repository에 권한을 부여할 수 있게 본 레포지토리에 Issue를 올려주세요.
 
-2.  권한을 부여받은 Private Repository를 포크합니다.
+2. 권한을 부여받은 Private Repository를 포크합니다.
 
-3.  새 브랜치를 만듭니다.
+3. 새 브랜치를 만듭니다.
 
-4.  작업 후 커밋합니다.
+4. 작업 후 커밋합니다.
 
-5.  브랜치에 푸시합니다.
+5. 브랜치에 푸시합니다.
 
-6.  풀리퀘스트를 보내주세요.
+6. 풀리퀘스트를 보내주세요.
