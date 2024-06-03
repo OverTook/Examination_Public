@@ -297,7 +297,6 @@ gh repo clone OverTook/Examination
 
 - [x]  기능 완성
 
-- [ ] 
 - [ ]  코드 리팩토링
   
   - [ ]  DTO 사용
