@@ -271,7 +271,6 @@ gh repo clone OverTook/Examination
 - 2024 / 05 / 01
   
   - 레포지토리 생성
-  - 
 
 ## 할 일 / TODO List
 
