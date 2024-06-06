@@ -144,6 +144,12 @@ gh repo clone OverTook/Examination
 
 ## 업데이트 내역
 
+- 2024 / 06 / 07
+  
+  - 버그 수정
+  
+  - PictureBox 크기 자동 조절 코드 작성 (확장 메소드)
+    
 - 2024 / 06 / 01
   
   - 기완성
